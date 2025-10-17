@@ -9,7 +9,7 @@
       "Total": 1000,
       "PaymentMethod": "KBZPay",
       "TransactionID": 7289282729292,
-      "Status": "Pending"
+      "Status": "Cancel"
     },
     {
       "Date": "2025-10-16T08:31:17.536Z",
@@ -20,7 +20,7 @@
       "Total": 3000,
       "PaymentMethod": "KBZPay",
       "TransactionID": 23580,
-      "Status": "Pending"
+      "Status": "Cancel"
     },
     {
       "Date": "2025-10-16T10:17:17.578Z",
@@ -31,7 +31,7 @@
       "Total": 3000,
       "PaymentMethod": "Wave",
       "TransactionID": 2885360,
-      "Status": "Pending"
+      "Status": "Success"
     },
     {
       "Date": "2025-10-17T00:26:57.677Z",
