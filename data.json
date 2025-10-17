@@ -43,6 +43,17 @@
       "PaymentMethod": "Wave",
       "TransactionID": 6728283,
       "Status": "Success"
+    },
+    {
+      "Date": "2025-10-17T06:39:53.515Z",
+      "UserID": "XXXXXXXXX",
+      "Category": "SIM/Package",
+      "Service": "Mytel 1GB",
+      "Qty": 1,
+      "Total": 1000,
+      "PaymentMethod": "Wave",
+      "TransactionID": 257897,
+      "Status": "Pending"
     }
   ],
   "payments": [
