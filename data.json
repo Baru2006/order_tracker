@@ -1,4 +1,57 @@
 {
-  "orders": [],
-  "payments": []
+  "orders": [
+    {
+      "Date": "2025-10-16T08:25:29.811Z",
+      "UserID": 1939382,
+      "Category": "SIM/Package",
+      "Service": "Mytel 1GB",
+      "Qty": 1,
+      "Total": 1000,
+      "PaymentMethod": "KBZPay",
+      "TransactionID": 7289282729292,
+      "Status": "Pending"
+    },
+    {
+      "Date": "2025-10-16T08:31:17.536Z",
+      "UserID": "XXXXXXXXX",
+      "Category": "Games TopUp",
+      "Service": "MLBB 100💎",
+      "Qty": 1,
+      "Total": 3000,
+      "PaymentMethod": "KBZPay",
+      "TransactionID": 23580,
+      "Status": "Pending"
+    },
+    {
+      "Date": "2025-10-16T10:17:17.578Z",
+      "UserID": "XXXXXXXXX",
+      "Category": "Games TopUp",
+      "Service": "MLBB 100💎",
+      "Qty": 1,
+      "Total": 3000,
+      "PaymentMethod": "Wave",
+      "TransactionID": 2885360,
+      "Status": "Pending"
+    }
+  ],
+  "payments": [
+    {
+      "Date": "2025-10-17T12:45:00.000Z",
+      "User": "Naw Mi Mi",
+      "From": "Her",
+      "To": "Him",
+      "Sent": 1500,
+      "Received": 1500,
+      "Status": "Perfect"
+    },
+    {
+      "Date": "2025-10-18T12:45:00.000Z",
+      "User": "Chit Ko",
+      "From": "Him",
+      "To": "Her",
+      "Sent": 1500,
+      "Received": 1500,
+      "Status": "Perfect"
+    }
+  ]
 }
