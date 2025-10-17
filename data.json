@@ -20,7 +20,7 @@
       "Total": 3000,
       "PaymentMethod": "KBZPay",
       "TransactionID": 23580,
-      "Status": "Fail"
+      "Status": "Failed"
     },
     {
       "Date": "2025-10-16T10:17:17.578Z",
