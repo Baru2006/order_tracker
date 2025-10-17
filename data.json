@@ -42,7 +42,7 @@
       "Total": 5000,
       "PaymentMethod": "Wave",
       "TransactionID": 6728283,
-      "Status": "Pending"
+      "Status": "Success"
     }
   ],
   "payments": [
